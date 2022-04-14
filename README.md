@@ -7,7 +7,7 @@ Jour 1 07/04/22:
  - demander le nom des deux joueurs
 Jour 2 10/04/22:
  règles des joueurs
- vérifier le placement des jetons (verticalement, horizontalement et verticalemnt)
+ vérifier le placement des jetons (verticalement, horizontalement et diagonalement)
  - quand 4 jetons sont alignées
 Jour 3 13/04/22:
  - définir le compteur combo
